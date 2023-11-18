@@ -39,8 +39,7 @@ Para executar este projeto:
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, reportar problemas ou enviar solicitações de novos recursos.
 
 ## Autor
-Agata Domingues Farias
-
+Este projeto foi desenvolvido por [Agata Domingues Farias](https://www.linkedin.com/in/agatadominguesfarias/) como parte de um estudo prático.
 ## Observações
 - Este readme serve como documentação básica para o curso e não abrange todos os detalhes do desenvolvimento web com ASP.NET Core.
 - Para uma compreensão mais aprofundada sobre o desenvolvimento de aplicações web com ASP.NET Core, recomenda-se consultar a documentação oficial e outros recursos educacionais.
